@@ -23,7 +23,7 @@
                <div class="row">
                     <div class="col align-items-center">
                        <div class="card" style="width: 18rem;">
-                            <img alt="Image" src="<c:url value='/resources/shopping-cart.png'/>"/>  
+                            <img alt="Image" src="<c:url value='/resources/computer.png'/>"/>  
                             <div class="card-body">
                               <h5 class="card-title">Romans</h5>
                               <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
@@ -33,7 +33,7 @@
                     <div class="col align-items-center">
                         <div class="col">
                           <div class="card" style="width: 18rem;">
-                            <img alt="Image" src="<c:url value='/resources/reading-book.png'/>"/>  
+                            <img alt="Image" src="<c:url value='/resources/work.png'/>"/>  
                             <div class="card-body">
                                 <h5 class="card-title">Livres</h5>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
@@ -44,7 +44,7 @@
                     </div>
                      <div class="col align-items-center">
                         <div class="card" style="width: 18rem;">
-                            <img alt="Image" src="<c:url value='/resources/3d.png'/>"/>  
+                            <img alt="Image" src="<c:url value='/resources/computer.png'/>"/>  
                             <div class="card-body">
                                 <h5 class="card-title">Dictionnaires</h5>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
